@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background-image:url(../images/outerspace.jpg);
+	background:#000000;
+	font:11px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+scrollbar-base-color: #ffffff;
+scrollbar-arrow-color: #0075AF;
+scrollbar-3dlight-color: #ffffff;
+scrollbar-darkshadow-color: #ffffff;
+scrollbar-face-color: #ffffff;
+scrollbar-highlight-color: #ffffff;
+scrollbar-shadow-color: #ffffff;
+scrollbar-track-color: #ffffff;
+}
+.news{
+	background-image:url(../images/news.jpg);
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.topleft{
+	;
+	padding-left: 40px;
+	padding-right: 20px;
+	padding-top: 80px;
+	font: 12 Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+}
+.topcenter{
+	width: 400px;
+	padding-left: 200px;
+	padding-right: 20px;
+	padding-top: 80px;
+	font: 12 Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+}
